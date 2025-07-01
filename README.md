@@ -2,6 +2,7 @@
 A stunning, fully responsive contact form built with pure HTML, CSS, and JavaScript. Features beautiful animations, comprehensive validation, and modern design patterns.
 
 Contact Form PreviewHTML5CSS3JavaScript
+i have used the chatgpt and v0.dev to complete the task
 
 ✨ Features
 🎯 Core Functionality
